@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import 'zone.js/dist/zone';
 import { HomeComponent } from './home/home.component';
 import { RouterLink, RouterOutlet } from '@angular/router';
 

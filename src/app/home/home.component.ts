@@ -39,7 +39,7 @@ export class HomeComponent {
       this.filteredLocationList = housingLocationList;
     });
   }
-  
+
   filterResults(text: string) {
     if (!text) {
       this.filteredLocationList = this.housingLocationList;
